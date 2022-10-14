@@ -118,12 +118,12 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ButtonText" xml:space="preserve">
-    <value>Click Me!</value>
+    <value>Haz clic aquí!</value>
   </data>
   <data name="Hello" xml:space="preserve">
-    <value>Hello world!</value>
+    <value>Hola mundo!</value>
   </data>
   <data name="WelcomeToMaui" xml:space="preserve">
-    <value>Welcome to .NET Multi-platform App UI</value>
+    <value>Bienvenidos al .NET Multi-platform App UI</value>
   </data>
 </root>
